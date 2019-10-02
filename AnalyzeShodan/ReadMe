@@ -1,1 +1,4 @@
+This Project Requires a Shodan API.  
+This Project also requires pulling the files from a mongoDB server, which was running locally on my host machine.
+The Project's intent was to identify, based on Shodan Scans, where exposed Shodan Servers are located in the United States. 
 
