@@ -4,3 +4,4 @@ Steps...
 (3)Import the CDC file into Juypter
 (4)Analyze the data in the file.  
 (Extra) There are several Kaggle Kernals showing various data analysis. 
+(Extra2) The .py file will run the .ipynb file and produce the graphs in a local folder of your choice
