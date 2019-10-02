@@ -1,0 +1,6 @@
+Steps...
+(1)First Download the Mortality Files from the CDC.
+(2)Run the CDC Mortality Parser on the downloaded CDC File
+(3)Import the CDC file into Juypter
+(4)Analyze the data in the file.  
+(Extra) There are several Kaggle Kernals showing various data analysis. 
